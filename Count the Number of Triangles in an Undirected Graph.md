@@ -1,4 +1,4 @@
-# Ex. No: 18E - Count the Number of Triangles in an Undirected Graph
+[# Ex. No: 18E - Count the Number of Triangles in an Undirected Graph
 
 ## AIM:
 To write a Python program to **count the number of triangles** present in an **undirected graph** using matrix operations.
@@ -29,3 +29,4 @@ Also, initialize a matrix `aux3` to store the cube of the adjacency matrix (i.e.
 ```
 
 ## RESULT
+](https://github.com/Divyashree3-11/Module-18)
